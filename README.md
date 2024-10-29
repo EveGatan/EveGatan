@@ -9,7 +9,7 @@
     
   <p align = "center">Information Technology Student from New Era University, Quezon City, Philippines</p>
   
-  <p>Education<br></p>
+  <p>Education</p>
     <table style="width:100%">
       <tr>
         <th>Program/Course</th>
@@ -40,5 +40,9 @@
         <td></td>
       </tr>
     </table>
+    <p>Skill sets</p>
+      <p>Programming: Java, HTML</p>
+      <p>Databses: IBM DB2 Cloud</p>
+      <p>Tools: Lucidchart, Eclipse, </p>
   </body>
 </html>
