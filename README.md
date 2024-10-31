@@ -1,13 +1,18 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <h1 align = "center"> Evelyn Gatan </h1>
-    <a href ="www.linkedin.com/in/evelyngatan">Linkein</a>
+    <h1 align ="center"> Evelyn Gatan </h1>
+    <p align ="center">
+    <a href ="www.linkedin.com/in/evelyngatan">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-%230A66C2?logo=linkedin&labelColor=gray"
+alt="Linkedin">
+    </a>
     <a href ="gatan.ev1999@gmail.com">Gmail</a>
     <a href ="https://www.facebook.com/EveGatan">Facebook</a>
     <a href ="https://www.instagram.com/eveegatan/">Instagram</a>
+  </p>
     
-  <p align = "center">Information Technology Student from New Era University, Quezon City, Philippines</p>
+  <h3 align = "center">Information Technology Student from New Era University, Quezon City, Philippines</h3>
   
   <p>Education</p>
     <table style="width:100%">
