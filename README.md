@@ -6,10 +6,11 @@
       <a href ="https://www.linkedin.com/in/evelyngatan/?originalSubdomain=ph">
       <img img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&logoSize=5cm&labelColor=gray">
       </a>
-      <a href ="gatan.ev1999@gmail.com">
+      <a href ="mailto: gatan.ev1999@gmail.com">
       <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white&labelColor=gray" alt="Gmail">
       </a>
-      <a href ="https://www.facebook.com/EveGatan"><img alt="Static Badge" src="https://img.shields.io/badge/Facebook-%230866FF?logo=facebook&logoColor=white&labelColor=gray" alt="Facebook">
+      <a href ="https://www.facebook.com/EveGatan">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Facebook-%230866FF?logo=facebook&logoColor=white&labelColor=gray" alt="Facebook">
       </a>
       <a href ="https://www.instagram.com/eveegatan/">
       <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&labelColor=gray" alt="Instagram">
