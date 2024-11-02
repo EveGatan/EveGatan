@@ -3,7 +3,7 @@
   <body>
     <h1 align ="center"> Evelyn Gatan </h1>
     <p align ="center">
-      <a href ="www.linkedin.com/in/evelyngatan/">
+      <a href ="https://www.linkedin.com/in/evelyngatan/?originalSubdomain=ph">
       <img img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&logoSize=5cm&labelColor=gray">
       </a>
       <a href ="gatan.ev1999@gmail.com">
