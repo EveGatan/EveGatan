@@ -34,7 +34,7 @@
           <td>2022 - Present</td>
         </tr>
           <tr>
-          <td>Science, Technology, Engineering ang Mathematics (SHS) </td>
+          <td>Science, Technology, Engineering and Mathematics (SHS) </td>
           <td>Eclaro Academy</td>
           <td>2018 - 2019</td>
         </tr>
