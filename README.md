@@ -54,6 +54,11 @@
         <td>Cognitive Class</td>
         <td>October 31, 2024</td>
       </tr>
+        <tr>
+          <td><a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5413762&trackId=OCI2024FNDCFA&key=2a392f69b0ecc33d76006a68c6976bafe894a5b0">Oracle Cloud Infrastructure 2022 Certified Foundations Associate</td>
+          <td>Oracle University</td>
+          <td>December 3, 2024</td>
+        </tr>
     </table>
   </div>
     <h3><p>💡Skill sets</p></h3>
