@@ -55,7 +55,7 @@
         <td>October 31, 2024</td>
       </tr>
         <tr>
-          <td><a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5413762&trackId=OCI2024FNDCFA&key=2a392f69b0ecc33d76006a68c6976bafe894a5b0">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</td>
+          <td><a href="[https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5413762&trackId=OCI2024FNDCFA&key=2a392f69b0ecc33d76006a68c6976bafe894a5b0](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FCD7FD004D6866120326A0CB8A3EC80CCA8B808E7A15394AE78356513DFD5C24)">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</td>
           <td>Oracle University</td>
           <td>December 3, 2024</td>
         </tr>
