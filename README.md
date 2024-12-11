@@ -64,6 +64,11 @@
             <td>Oracle University</td>
             <td>December 10, 2024</td>
           </tr>
+            <tr>
+              <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FCD7FD004D6866120326A0CB8A3EC80CE9602F2728D64ADA382C66C956E9A5E1">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</td>
+              <td>Oracle University</td>
+              <td> December 11, 2024</td>
+            </tr>
     </table>
   </div>
     <h3><p>💡Skill sets</p></h3>
